@@ -1,4 +1,10 @@
 # Git Kata: Basic Commits
+## Answers
+![basic1](images/basic1.png)
+![basic2](images/basic2.png)
+![basic3](images/basic3.png)
+
+
 This kata will introduce you to the `git add` and `git commit` commands.
 
 This is a very introductory kata. if you have used `git status`, `git log --oneline --graph`, `git add` and `git commit` extensively you should probably skip it.
