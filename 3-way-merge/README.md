@@ -1,4 +1,7 @@
 # Git Kata: 3-Way Merge
+## Answers
+![merge1](images/merge1.png)
+![merge2](images/merge2.png)
 
 ## Setup
 
